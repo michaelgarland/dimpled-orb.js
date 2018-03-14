@@ -1,0 +1,29 @@
+{
+	"name": "dimpled-orb.js",
+	"version": "1.0.0",
+	"description": "JavaScript client for live golf scoring for a weekend tournament",
+	"main": "index.js",
+	"files": [
+		"dist"
+	],
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/michaelgarland/dimpled-orb.js"
+	},
+	"keywords": [
+		"golf",
+		"scorecard"
+	],
+	"author": "mike garland",
+	"license": "SEE LICENSE IN e",
+	"dependencies": {
+		"bootstrap": "4.0.0",
+		"jquery": "3.3.1"
+	},
+	"devDependencies": {
+		"express": "^4.15.2"
+	}
+}
